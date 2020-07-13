@@ -37,7 +37,7 @@ Hi Nuget visitors, if you have problem finding the sample you are looking for, p
 | [Logging](/projects/logging)                                    | (2)  | [Web Utilities](/projects/web-utilities)                                                                        | (3)  |
 | [Localization and Globalization](projects/localization)         | (6)  | For Data Access samples, go to the excellent [ORM Cookbook](https://github.com/Grauenwolf/DotNet-ORM-Cookbook). |      |
 |                                                                 | 125  |                                                                                                                 | 142  |
- | (1) | [Web Api](/projects/webapi)
+ | (1) | [Web Api](/projects/webapi) (Asp.Net Core Web Api, DDD, Djikstra Algorithm)
 ## How to run these samples
 
 To run these samples, simply open your command line console,  go to each folder and execute `dotnet watch run`.
