@@ -33,11 +33,11 @@ Hi Nuget visitors, if you have problem finding the sample you are looking for, p
 | [IHttpClientFactory](/projects/httpclientfactory)               | (4)  | [URL Redirect/Rewrite](/projects/rewrite)                                                                       | (6)  |
 | [IHostedService](/projects/ihosted-service)                     | (1)  | [Syndications](/projects/syndications)                                                                          | (3)  |
 | [Generic Hosting](/projects/generic-host)                       | (9)  | [Uri Helper](/projects/uri-helper)                                                                              | (5)  |
-                                                                  | (1) | [Web Api](/projects/)
 | [gRPC](/projects/grpc) (including grpc-Web)                                          | (12) | [Web Sockets](/projects/web-sockets)                                                                            | (5)  |
 | [Logging](/projects/logging)                                    | (2)  | [Web Utilities](/projects/web-utilities)                                                                        | (3)  |
 | [Localization and Globalization](projects/localization)         | (6)  | For Data Access samples, go to the excellent [ORM Cookbook](https://github.com/Grauenwolf/DotNet-ORM-Cookbook). |      |
 |                                                                 | 125  |                                                                                                                 | 142  |
+ | (1) | [Web Api](/projects/webapi)
 ## How to run these samples
 
 To run these samples, simply open your command line console,  go to each folder and execute `dotnet watch run`.
